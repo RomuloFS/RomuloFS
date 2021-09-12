@@ -3,7 +3,7 @@
 - 🔭 Dev jr.
 - 🌱 Aprendendo Java + Angular
 - 📫 Contate-me por e-mail: romulosousa865@gmail.com
-- ⚡ Preparado pra dar tudo de si e aprender mais a cada dia
+- ⚡ Preparado para dar tudo de mim e aprender mais a cada dia
 <br>
 
 <div align="center">
