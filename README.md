@@ -1,7 +1,7 @@
 ### Olá, eu sou o Romulo! ✨
 
 - 🔭 Dev jr.
-- 🌱 Aprendendo Java + Angular
+- 🌱 Java + Angular
 - 📫 Contate-me por e-mail: romulosousa865@gmail.com
 - ⚡ Preparado para dar tudo de mim e aprender mais a cada dia
 <br>
